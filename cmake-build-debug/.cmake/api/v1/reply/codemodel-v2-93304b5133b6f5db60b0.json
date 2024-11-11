@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "all",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "barreiras::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-barreiras-Debug-b0b4248a0fa31d3b9b23.json",
+					"name" : "barreiras",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "deadlock::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-deadlock-Debug-a86c19e6d79987b382cc.json",
+					"name" : "deadlock",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "leitores_escritores::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-leitores_escritores-Debug-0d01108fd6ef637c3cd5.json",
+					"name" : "leitores_escritores",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sinais::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sinais-Debug-bcdd564ce1e1baa8f807.json",
+					"name" : "sinais",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Admin/OneDrive/\u00c1rea de Trabalho/Faculdade/6 Semestre/Programa\u00e7\u00e3o Paralela/atv2/cmake-build-debug",
+		"source" : "C:/Users/Admin/OneDrive/\u00c1rea de Trabalho/Faculdade/6 Semestre/Programa\u00e7\u00e3o Paralela/atv2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

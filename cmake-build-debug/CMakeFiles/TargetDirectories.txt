@@ -1,0 +1,6 @@
+C:/Users/Admin/OneDrive/Área de Trabalho/Faculdade/6 Semestre/Programação Paralela/atv2/cmake-build-debug/CMakeFiles/leitores_escritores.dir
+C:/Users/Admin/OneDrive/Área de Trabalho/Faculdade/6 Semestre/Programação Paralela/atv2/cmake-build-debug/CMakeFiles/barreiras.dir
+C:/Users/Admin/OneDrive/Área de Trabalho/Faculdade/6 Semestre/Programação Paralela/atv2/cmake-build-debug/CMakeFiles/sinais.dir
+C:/Users/Admin/OneDrive/Área de Trabalho/Faculdade/6 Semestre/Programação Paralela/atv2/cmake-build-debug/CMakeFiles/deadlock.dir
+C:/Users/Admin/OneDrive/Área de Trabalho/Faculdade/6 Semestre/Programação Paralela/atv2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Admin/OneDrive/Área de Trabalho/Faculdade/6 Semestre/Programação Paralela/atv2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
