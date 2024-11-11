@@ -9,8 +9,6 @@ Este repositório contém exemplos de código em C para ilustrar conceitos funda
   - [Barreiras](#barreiras)
   - [Sinais](#sinais)
   - [Deadlocks](#deadlocks)
-- [Como Executar](#como-executar)
-- [Referências](#referências)
 
 ---
 
